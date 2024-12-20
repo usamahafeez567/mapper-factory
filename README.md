@@ -1,7 +1,7 @@
 
-# MapperFactory
+# JSON Mapper Factory
 
-**MapperFactory** is a lightweight and powerful utility class for mapping JSON templates with dynamic data. It allows you to replace placeholders in a JSON structure (strings, arrays, objects) with actual values dynamically.
+**JSON Mapper Factory** is a lightweight and powerful utility class for mapping JSON templates with dynamic data. It allows you to replace placeholders in a JSON structure (strings, arrays, objects) with actual values dynamically.
 
 ## Installation
 
