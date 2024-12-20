@@ -1,6 +1,6 @@
 {
   "name": "json-mapper-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MapperFactory is a utility class for mapping JSON templates with dynamic data.",
   "main": "dist/index.js",
   "scripts": {
