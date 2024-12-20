@@ -39,4 +39,4 @@ class MapperFactory {
     }
 }
 
-export default new MapperFactory();
+module.exports = new MapperFactory();
