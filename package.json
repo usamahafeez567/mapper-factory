@@ -1,0 +1,34 @@
+{
+  "name": "mapper-factory",
+  "version": "1.0.0",
+  "description": "MapperFactory is a utility class for mapping JSON templates with dynamic data.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamahafeez567/mapper-factory.git"
+  },
+  "keywords": [
+    "mapper-factory",
+    "mapping",
+    "JSON",
+    "dynamic",
+    "data"
+  ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "author": "usamahafeez567",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usamahafeez567/mapper-factory/issues"
+  },
+  "homepage": "https://github.com/usamahafeez567/mapper-factory#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
